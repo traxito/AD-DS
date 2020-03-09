@@ -42,3 +42,10 @@ Description of folders inside Users and Computers:
 1. Built-in domains: groups that are essential for the domain to operate.
 2. Domain controllers: (The Windows Servers that controls the AD)
 3. TYPE: organization unit: you can apply policies (used 9/10), CONTAINER you CANT
+
+Apply policies to groups
+
+GPO: GROUP POLICY OBJECT
+OU: ORGANIZATIONAL UNIT
+
+Tools-> Group Policy Management-> Select the forest -> select the domain ->  Starter GPO's to import or export policies or Group Policy objects to create a new one
